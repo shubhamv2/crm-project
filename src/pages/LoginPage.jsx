@@ -19,9 +19,9 @@ export default function LoginPage() {
                     }
                 </button>
             </div>
-            <button className="bg-black text-white p-3 rounded-md text-lg font-semibold">Login</button>
+            <button className="bg-black text-white p-3 rounded-md text-lg font-semibold cursor-pointer">Login</button>
 
-            <p className="text-sm">Don't have an account?{" "} <Link className="text-blue-500 underline" to="/register">Register</Link></p>
+            <p className="text-sm">Don't have an account?{" "} <Link className="text-blue-500 underline font-semibold" to="/register">Register</Link></p>
         </form>
     )
 }   
