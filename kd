@@ -1,0 +1,29 @@
+[33mcommit d2d327b5d30028e9ebb0ec7a06795d77c2a716c8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Shubham Vairagade <shubhamvairagade91@gmail.com>
+Date:   Thu May 14 13:09:37 2026 +0530
+
+    feat(auth): add register page UI
+
+[33mcommit 243f50f54f5c23383ab0c6cae003725dd6834de4[m
+Author: Shubham Vairagade <shubhamvairagade91@gmail.com>
+Date:   Thu May 14 12:42:53 2026 +0530
+
+    feat(auth): add login page UI
+
+[33mcommit 4747a24d8bd40e4a192a005f9062b21c6b44d1d9[m
+Author: Shubham Vairagade <shubhamvairagade91@gmail.com>
+Date:   Thu May 14 09:45:28 2026 +0530
+
+    Route setup done for all pages
+
+[33mcommit cca39f24330273863cbfb4ff9fb8cdc692e545d6[m
+Author: Shubham Vairagade <shubhamvairagade91@gmail.com>
+Date:   Wed May 13 23:42:48 2026 +0530
+
+    Added project folder structure
+
+[33mcommit 8d478021d0771048e186a3889701a417c22ebaa4[m
+Author: Shubham Vairagade <shubhamvairagade91@gmail.com>
+Date:   Wed May 13 15:54:34 2026 +0530
+
+    Initial CRM setup

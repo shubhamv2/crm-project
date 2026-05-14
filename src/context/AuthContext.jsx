@@ -49,7 +49,7 @@ export const AuthProvider = ({children})=>{
     },[]);
 
     const value = useMemo(()=>{
-        return {user, login, logout, register}
+        return {user, login, logout, register, isAuthenticated:!!user}
     },[user]);
 
     return(
