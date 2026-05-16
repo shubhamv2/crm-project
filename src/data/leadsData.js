@@ -1,0 +1,53 @@
+export const leadsData = [
+  {
+    id: "L-1001",
+    name: "Amit Sharma",
+    company: "TechNova",
+    status: "New",
+    source: "Website",
+    assignedTo: "Rahul",
+    email: "amit@technova.com",
+    phone: "+91 9876543210",
+    notes: [
+      "Requested pricing details",
+      "Interested in enterprise plan",
+    ],
+    activities: [
+      "Lead created from Website",
+      "Assigned to Rahul",
+      "Follow-up scheduled for Friday",
+    ],
+  },
+  {
+    id: "L-1002",
+    name: "Priya Mehta",
+    company: "CloudSync",
+    status: "Qualified",
+    source: "Referral",
+    assignedTo: "Neha",
+    email: "priya@cloudsync.com",
+    phone: "+91 9123456780",
+    notes: ["Asked for demo", "Requested team pricing"],
+    activities: [
+      "Lead added via Referral",
+      "Moved to Qualified",
+      "Demo scheduled",
+    ],
+  },
+  {
+    id: "L-1003",
+    name: "Rohan Verma",
+    company: "ScaleEdge",
+    status: "Contacted",
+    source: "LinkedIn",
+    assignedTo: "Amit",
+    email: "rohan@scaleedge.com",
+    phone: "+91 9988776655",
+    notes: ["Initial contact made"],
+    activities: [
+      "Lead added from LinkedIn",
+      "Assigned to Amit",
+      "Contacted via email",
+    ],
+  },
+];

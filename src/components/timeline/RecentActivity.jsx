@@ -3,8 +3,8 @@ export default function RecentActivity(){
     return(
         <div className="space-y-4">
             {
-                recentActivities.map(item=>(
-                    <p>{item}</p>
+                recentActivities.map((item,index)=>(
+                    <p key={index}>{item}</p>
                 ))
             }
         </div>        
